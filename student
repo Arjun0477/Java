@@ -40,3 +40,16 @@ class Output{
         result.displayScores();
     }
 }
+
+
+
+
+***OUTPUT***
+
+C:\Users\mlm\.jdks\openjdk-21.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.3\lib\idea_rt.jar=51787:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\mlm\IdeaProjects\employee\out\production\employee Output
+Academic Score of: John:85
+Sports Score: 90
+
+Process finished with exit code 0
+
+
