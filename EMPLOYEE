@@ -73,3 +73,50 @@ class arrayObject
 
     }
 }
+
+
+
+***OUTPUT***
+
+C:\Users\mlm\.jdks\openjdk-21.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.3\lib\idea_rt.jar=52841:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\mlm\IdeaProjects\untitled\out\production\untitled arrayObject
+Enter number of employees: 
+2
+Enter employee ID: 
+100
+Enter employee name: 
+John
+Enter employee salary: 
+25000
+Enter employee address: 
+kottayam
+Enter employee department: 
+HR
+Enter employee subject: 
+Maths
+Enter employee ID: 
+101
+Enter employee name: 
+Arjun
+Enter employee salary: 
+23000
+Enter employee address: 
+Alappuzha
+Enter employee department: 
+CS
+Enter employee subject: 
+Science
+ID: 100
+Name: John
+Salary: 25000
+Address: kottayam
+Department: HR
+Subject: Maths
+ID: 101
+Name: Arjun
+Salary: 23000
+Address: Alappuzha
+Department: CS
+Subject: Science
+
+Process finished with exit code 0
+
