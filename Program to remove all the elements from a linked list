@@ -1,0 +1,27 @@
+import java.util.LinkedList;
+public class linked {
+    public static void main(String[] args) {
+        // Create a LinkedList
+        LinkedList<String> linkedList = new LinkedList<>();
+        // Add elements to the LinkedList
+        linkedList.add("Yamaha");
+        linkedList.add("Bajaj");
+        linkedList.add("Honda");
+        linkedList.add("Hero");
+        // Display the initial LinkedList
+        System.out.println("Initial LinkedList: " + linkedList);
+        // Remove all elements from the LinkedList
+        linkedList.clear();
+        // Display the LinkedList after removal
+        System.out.println("LinkedList after removing all elements: " + linkedList);
+    }
+}
+
+
+
+**OUTPUT**
+"C:\Program Files\Java\jdk-21\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.3\lib\idea_rt.jar=65344:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\mlm\IdeaProjects\untitled1\out\production\untitled1 linked
+Initial LinkedList: [Yamaha, Bajaj, Honda, Hero]
+LinkedList after removing all elements: []
+
+Process finished with exit code 0
